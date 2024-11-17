@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\esteira_cal\bin\Debug\net7.0\AutomacaoProjeto.exe
+C:\Users\USER\Desktop\esteira_cal\bin\Debug\net7.0\AutomacaoProjeto.deps.json
+C:\Users\USER\Desktop\esteira_cal\bin\Debug\net7.0\AutomacaoProjeto.runtimeconfig.json
+C:\Users\USER\Desktop\esteira_cal\bin\Debug\net7.0\AutomacaoProjeto.dll
+C:\Users\USER\Desktop\esteira_cal\bin\Debug\net7.0\AutomacaoProjeto.pdb
+C:\Users\USER\Desktop\esteira_cal\bin\Debug\net7.0\NModbus4.dll
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.AssemblyInfo.cs
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\Automaca.3C6A3B76.Up2Date
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.dll
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\refint\AutomacaoProjeto.dll
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.pdb
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\AutomacaoProjeto.genruntimeconfig.cache
+C:\Users\USER\Desktop\esteira_cal\obj\Debug\net7.0\ref\AutomacaoProjeto.dll
